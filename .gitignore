@@ -49,3 +49,7 @@ app.*.map.json
 
 # Binarios descargados para pruebas locales (.deb, instaladores)
 *.deb
+
+# env files
+.env
+.env.*
